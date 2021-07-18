@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Color picker[D]
+Name=Color Picker
 Comment=Extraer Colores
-Icon=/home/martin/color-picker.png
-Exec=python3 /home/martin/colorpicker.pyw
+Icon=/home/username/Color-Picker/color-picker.png
+Exec=python3 /home/username/Color-Picker/colorpicker.pyw
 Categories=System Tools; #se puede omitir esta linea
 Terminal=false #true si es de terminal
 Type=Application
