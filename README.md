@@ -16,3 +16,7 @@ sudo bash install.sh
 sudo nano /usr/share/applications/colorpicker.desktop
 
 En la parte de home/username/Color-Picker debes colocar tu nombre de usuario.
+
+Para que funcione correctamente el programa necesitas tener tkinter instalado.
+
+[Arch Linux] sudo pacman -S tk && pip install tk
