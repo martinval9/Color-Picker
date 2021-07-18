@@ -11,7 +11,7 @@ cd Color-Picker
 
 sudo bash install.sh
 
-## Como hacer que aparezca en el menu:
+## Cómo hacer que aparezca en el menu:
 
 sudo nano /usr/share/applications/colorpicker.desktop
 
