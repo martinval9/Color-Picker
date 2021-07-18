@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Color picker[D]
+Comment=Extraer Colores
+Icon=/home/martin/color-picker.png
+Exec=python3 /home/martin/colorpicker.pyw
+Categories=System Tools; #se puede omitir esta linea
+Terminal=false #true si es de terminal
+Type=Application
+
+
+
+
+
+
+
+
+
+
